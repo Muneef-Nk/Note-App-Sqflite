@@ -1,4 +1,4 @@
-# sqflite_crud
+# Note App Sqflite
 
 A new Flutter project.
 
